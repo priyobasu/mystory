@@ -1,1 +1,3 @@
 We are learning advanced git commands in our class no 67
+
+Nikhil is the teacher and Priyadarshini is the student now
